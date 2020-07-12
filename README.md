@@ -1,9 +1,6 @@
 # Online Map
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Online-Map is a all user in an online map with their locations created with [Vue](https://vuejs.org/) and [Socket.IO](https://socket.io/).
+Online-Map is an all user in an online map with their locations created with [Vue](https://vuejs.org/) and [Socket.IO](https://socket.io/).
 
 ## Demo
 
