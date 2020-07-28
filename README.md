@@ -10,6 +10,7 @@ Online-Map is an all user in an online map with their locations created with [Vu
 
 ```bash
 git clone https://github.com/taylanunutmaz/online-map.git
+cd online-map
 
 cd server
 yarn
